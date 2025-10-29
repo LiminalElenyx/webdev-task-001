@@ -1,0 +1,38 @@
+body {
+    background: #FAF7F5;
+    color:#1F2937;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1{
+    font-size: 2rem; color:#DB2777;
+    text-align: center;
+}
+
+h2{
+    font-size: 1.25rem; color: #4f7a63;
+    text-align: center;
+}
+
+.tag{
+    text-align: center;
+    font-style: italic;
+}
+.vocab-item{
+    background:#fff;
+    border:3px solid #FCE7F3;
+    padding:.5rem .75rem;
+    margin-bottom:0.75rem;
+    
+}
+
+.term{
+    color:#8B2C42;
+}
+
+.definition{
+    color:#1F2937;
+}
+.vocab-list{
+    color:#046307;
+}
